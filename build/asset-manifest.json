@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87e410c1.chunk.css",
+    "main.js": "/static/js/main.a84b1057.chunk.js",
+    "main.js.map": "/static/js/main.a84b1057.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.579dcf29.js",
+    "runtime-main.js.map": "/static/js/runtime-main.579dcf29.js.map",
+    "static/js/2.86af72e8.chunk.js": "/static/js/2.86af72e8.chunk.js",
+    "static/js/2.86af72e8.chunk.js.map": "/static/js/2.86af72e8.chunk.js.map",
+    "static/js/3.c6912d4f.chunk.js": "/static/js/3.c6912d4f.chunk.js",
+    "static/js/3.c6912d4f.chunk.js.map": "/static/js/3.c6912d4f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.87e410c1.chunk.css.map": "/static/css/main.87e410c1.chunk.css.map",
+    "static/js/2.86af72e8.chunk.js.LICENSE.txt": "/static/js/2.86af72e8.chunk.js.LICENSE.txt",
+    "static/media/book.87006632.png": "/static/media/book.87006632.png",
+    "static/media/computer.68ad2528.jpg": "/static/media/computer.68ad2528.jpg",
+    "static/media/english.da3064d8.jpeg": "/static/media/english.da3064d8.jpeg",
+    "static/media/maths.8a770baf.jpg": "/static/media/maths.8a770baf.jpg",
+    "static/media/physics.d806654c.jpg": "/static/media/physics.d806654c.jpg",
+    "static/media/study.b8b8698e.jpg": "/static/media/study.b8b8698e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.579dcf29.js",
+    "static/js/2.86af72e8.chunk.js",
+    "static/css/main.87e410c1.chunk.css",
+    "static/js/main.a84b1057.chunk.js"
+  ]
+}
