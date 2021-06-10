@@ -90,6 +90,10 @@ app.get('/logout', (req, res)=>{
     res.send(true)
 })
 
+app.get('*', (req, res)=>{
+    res.redirect('/')
+})
+
 app.listen(process.env.PORT || 5000, ()=>{
     console.log('Api Running')
 })
